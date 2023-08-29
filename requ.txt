@@ -1,0 +1,3 @@
+php artisan queue:work
+npm run dev
+php aritsan serve
